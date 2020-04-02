@@ -234,6 +234,12 @@ namespace Image_Browser
             backgroundWorker1.RunWorkerAsync(filter);
 
         }
+
+        private void эффектСтеклаToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Filter filter = new GlassEffect();
+            backgroundWorker1.RunWorkerAsync(filter);
+        }
     }
 
   

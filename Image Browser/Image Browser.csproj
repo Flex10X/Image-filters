@@ -71,6 +71,7 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="GlassEffect.cs" />
     <Compile Include="MedianFilter.cs" />
     <Compile Include="Prewitt.cs" />
     <Compile Include="Program.cs" />
