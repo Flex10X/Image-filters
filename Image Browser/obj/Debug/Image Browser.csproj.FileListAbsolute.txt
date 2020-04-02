@@ -1,0 +1,9 @@
+C:\Users\fokla\Documents\Visual Studio 2019\Image Browser\bin\Debug\Image Browser.exe.config
+C:\Users\fokla\Documents\Visual Studio 2019\Image Browser\bin\Debug\Image Browser.exe
+C:\Users\fokla\Documents\Visual Studio 2019\Image Browser\bin\Debug\Image Browser.pdb
+C:\Users\fokla\Documents\Visual Studio 2019\Image Browser\obj\Debug\Image Browser.csprojAssemblyReference.cache
+C:\Users\fokla\Documents\Visual Studio 2019\Image Browser\obj\Debug\Image_Browser.Form1.resources
+C:\Users\fokla\Documents\Visual Studio 2019\Image Browser\obj\Debug\Image_Browser.Properties.Resources.resources
+C:\Users\fokla\Documents\Visual Studio 2019\Image Browser\obj\Debug\Image Browser.csproj.GenerateResource.cache
+C:\Users\fokla\Documents\Visual Studio 2019\Image Browser\obj\Debug\Image Browser.exe
+C:\Users\fokla\Documents\Visual Studio 2019\Image Browser\obj\Debug\Image Browser.pdb
